@@ -1,4 +1,6 @@
 //Maxwell Seefeld
+//6/18/2022
+
 //How to captue Kernel Boot Message in the Journal 
 #!/bin/bash
 sudo mkdir -p /etc/kernel/cmdline.d/
