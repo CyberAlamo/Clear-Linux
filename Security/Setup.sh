@@ -7,7 +7,7 @@ sudo swupd check-update
 sudo swupd update
 
 //downloads software according to user specifications
-
+//to be implemented later this week
 sudo swupd bundle-add ansible
 sudo swupd bundle-add suricata
 sudo swupd bundle-add audit
